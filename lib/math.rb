@@ -11,7 +11,7 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  division_answer = num2 / num1
+  division_answer = num1 / num2
   puts division_answer
   division_answer
 end
@@ -23,7 +23,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  modulo_answer = num2 % num1 
+  modulo_answer = num1 % num2 
   puts modulo_answer
   modulo_answer
 end
